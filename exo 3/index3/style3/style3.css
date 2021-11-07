@@ -1,0 +1,28 @@
+#one
+{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+#two
+
+{ width: 100px;
+    height: 100px;
+    background-color: dodgerblue;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.55);
+ border: solid  black 1px;
+    height: 46vw;
+    width: 99vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items:center;
+
+    justify-content: center;
+
+
+}

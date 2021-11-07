@@ -1,0 +1,47 @@
+#one,#six
+{
+    height: 100px;
+    width: 130px;
+    background-color: aquamarine;
+}
+#two,#seven
+{ height: 100px;
+    width: 130px;
+    background-color: dodgerblue;
+}
+#three,#eight
+{ height: 100px;
+    width: 130px;
+    background-color: mediumpurple;
+}
+#four, #nine
+{ height: 100px;
+    width: 130px;
+    background-color: darkorange;
+}
+#five
+{ height: 100px;
+    width: 130px;
+    background-color: red;
+}
+
+.container {
+    height: 30vw;
+    width: 13vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    align-items: baseline;
+    justify-content: space-between;
+
+
+}
+#nine
+{
+    width: 60%;
+    height: 95%;
+    padding: 10px 10px;
+    justify-content: space-between;
+
+
+}

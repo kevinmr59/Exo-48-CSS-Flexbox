@@ -1,0 +1,44 @@
+#one
+{
+    height:47px;
+    width: 607px;
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+}
+#two
+{ height: 351px;
+    width: 170px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: left;
+}
+#three
+{ height: 351px;
+    width: 447px;
+    background-color: mediumpurple;
+    color: white;
+
+    align-self: flex-end;
+    margin-left: 10rem;
+    margin-top: -28rem;
+    text-align: left;
+}
+#four
+{ height: 41px;
+    width: 607px;
+    background-color: darkorange;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.container {
+    height: 28vw;
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+}

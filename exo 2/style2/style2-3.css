@@ -1,0 +1,47 @@
+#one
+{
+    height: 130px;
+    width: 87px;
+    background-color: aquamarine;
+}
+#two
+{ height: 130px;
+    width: 87px;
+    background-color: dodgerblue;
+}
+#three
+{ height: 130px;
+    width: 87px;
+    background-color: mediumpurple;
+}
+#four
+{ height: 130px;
+    width: 87px;
+    background-color: darkorange;
+}
+#five
+{ height: 130px;
+    width: 87px;
+    background-color: red;
+}
+
+.container {
+    height: 50vw;
+    width: 13vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
+
+}
+#five
+{
+    width: 38%;
+    height: 20%;
+    padding: 10px 10px;
+    justify-content: space-between;
+
+
+}

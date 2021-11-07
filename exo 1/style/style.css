@@ -1,0 +1,33 @@
+#one,#six
+{
+    height: 280px;
+    width: 60px;
+    background-color: aquamarine;
+}
+#two,#seven
+{ height: 280px;
+    width: 60px;
+    background-color: dodgerblue;
+}
+#three,#eight
+{ height: 280px;
+    width: 60px;
+    background-color: mediumpurple;
+}
+#four
+{ height: 280px;
+    width: 60px;
+    background-color: darkorange;
+}
+#five
+{ height: 280px;
+    width: 60px;
+background-color: red;
+}
+
+.container
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
